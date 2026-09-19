@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad AlMousa 👋
+# Hi, I'm Mohammad Almousa 👋
 
 ### Backend Developer | Python & Django
 
