@@ -125,7 +125,7 @@ I'm currently focusing on improving my knowledge and practical skills in:
 
 🔗 **LinkedIn:** www.linkedin.com/in/mohammad-almousa-1b245828a
 
-🌐 **Portfolio:** [Coming Soon]
+🌐 **Portfolio:** https://moh-almousa.github.io/portfolio/
 
 ---
 
